@@ -1,5 +1,9 @@
-package org.example;public class Main {
+package org.example;
+
+public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        GenericMethods gM = new GenericMethods();
+        gM.printGenericMethods(new Persona("Joan", "Caballero", 24), 76, "Java");
+        gM.printGenericMethods(34.7F, "Firulais", new Persona("Joan", "Caballero", 24));
     }
 }

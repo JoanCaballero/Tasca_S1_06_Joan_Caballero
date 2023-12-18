@@ -20,4 +20,9 @@ public class Persona {
     public int getEdat() {
         return edat;
     }
+
+    @Override
+    public String toString() {
+        return ("Nom i Cognom: " + nom + " " + cognom + ". Edat: " + edat);
+    }
 }

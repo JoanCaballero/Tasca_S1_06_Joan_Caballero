@@ -1,4 +1,4 @@
-package org.n1exercici1;
+package org.example;
 
 public class NoGenericMethods {
 

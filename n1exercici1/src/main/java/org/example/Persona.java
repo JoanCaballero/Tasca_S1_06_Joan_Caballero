@@ -1,4 +1,4 @@
-package org.n1exercici1;
+package org.example;
 
 public class Persona {
     private String nom, cognom;
@@ -20,4 +20,5 @@ public class Persona {
     public int getEdat() {
         return edat;
     }
+
 }
