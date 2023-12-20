@@ -4,19 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5d68691-af6d-4c97-95b9-257ce113cd55" name="Changes" comment="">
+    <list default="true" id="e5d68691-af6d-4c97-95b9-257ce113cd55" name="Changes" comment="Commit n1 ex2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/n1exercici1/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/n1exercici1/src/main/java/org/example/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/n1exercici1/src/main/java/org/example/NoGenericMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/n1exercici1/src/main/java/org/example/NoGenericMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/n1exercici1/src/main/java/org/example/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/n1exercici1/src/main/java/org/example/Persona.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/n1exercici2/src/main/java/org/example/GenericMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/n1exercici2/src/main/java/org/example/GenericMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/n1exercici2/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/n1exercici2/src/main/java/org/example/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/n1exercici2/src/main/java/org/example/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/n1exercici2/src/main/java/org/example/Persona.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/n2exercici1/src/main/java/org/example/GenericMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/n2exercici1/src/main/java/org/example/GenericMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/n2exercici1/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/n2exercici1/src/main/java/org/example/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/n2exercici2/src/main/java/org/example/GenericMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/n2exercici2/src/main/java/org/example/GenericMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/n2exercici2/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/n2exercici2/src/main/java/org/example/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +37,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "jdk.selected.JAVA_MODULE": "18",
-    "last_opened_file_path": "C:/Users/formacio/Desktop/JC/Tasca_S1_06_Joan_Caballero/n2exercici2/src/main/java/org/example"
+    "last_opened_file_path": "C:/Users/formacio/Desktop/JC/Tasca_S1_05_Joan_Caballero"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -117,7 +106,6 @@
         <item itemvalue="Application.org.example.Main (2)" />
         <item itemvalue="Application.org.example.Main (1)" />
         <item itemvalue="Application.org.example.Main" />
-        <item itemvalue="Application.org.n1exercici1.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -130,6 +118,14 @@
       <option name="presentableId" value="Default" />
       <updated>1701333661967</updated>
     </task>
+    <task id="LOCAL-00001" summary="Commit n1 ex2">
+      <created>1702889358915</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1702889358915</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -142,5 +138,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit n1 ex2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit n1 ex2" />
   </component>
 </project>
